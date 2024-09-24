@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/zookeeper-install-3.5.0-alpha
+FROM gcr.io/google-containers/zookeeper-install-3.5.0-alpha:deprecated-public-image-e9c632ccbcf97
